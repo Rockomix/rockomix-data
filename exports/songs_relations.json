@@ -1,0 +1,758 @@
+[
+  {
+    "song_key": "almohada",
+    "related_song_key": "amar y querer",
+    "song_label": "ALMOHADA",
+    "related_song_label": "Amar Y Querer",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 12:00:43.031865"
+  },
+  {
+    "song_key": "almohada",
+    "related_song_key": "el triste",
+    "song_label": "ALMOHADA",
+    "related_song_label": "El Triste",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 12:01:07.871170"
+  },
+  {
+    "song_key": "almohada",
+    "related_song_key": "gavilan o paloma",
+    "song_label": "ALMOHADA",
+    "related_song_label": "Gavilan O Paloma",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 12:01:17.512710"
+  },
+  {
+    "song_key": "almohada",
+    "related_song_key": "lo pasado, pasado",
+    "song_label": "ALMOHADA",
+    "related_song_label": "Lo Pasado, Pasado",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 12:01:39.766202"
+  },
+  {
+    "song_key": "almohada",
+    "related_song_key": "vamos a darnos tiempo",
+    "song_label": "ALMOHADA",
+    "related_song_label": "Vamos A Darnos Tiempo",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 12:00:58.579189"
+  },
+  {
+    "song_key": "angeles azules - 17 años",
+    "related_song_key": "noreste caliente - 45 grados",
+    "song_label": "Angeles Azules - 17 Años",
+    "related_song_label": "Noreste Caliente - 45 grados",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:06:44.634731"
+  },
+  {
+    "song_key": "angeles azules con natalia lafourcade - nunca es suficiente",
+    "related_song_key": "el chico del apartamento 512 - selena",
+    "song_label": "Ángeles Azules con Natalia Lafourcade - Nunca es suficiente",
+    "related_song_label": "el chico del apartamento 512 - selena",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 21:52:06.028900"
+  },
+  {
+    "song_key": "años napoleon",
+    "related_song_key": "te aprovechas - limite",
+    "song_label": "años napoleon",
+    "related_song_label": "Te Aprovechas - Limite",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-15 00:15:09.127079"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "despues de ti ¿quien?",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "después de tí ¿Quién?",
+    "weight": 2.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:37:46.226705"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "mi mayor anhelo - banda ms",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "Mi Mayor Anhelo - Banda MS",
+    "weight": 2.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:37:16.015631"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "no me pidas perdon",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "no me pidas perdón",
+    "weight": 2.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:38:16.819930"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "christian nodal - de los besos que te di",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "Christian Nodal - De los besos que te di",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:36:10.807625"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "cual adios",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "cuál adiós",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:35:48.653751"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "desvelado - bobby pulido",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "Desvelado - Bobby Pulido",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:36:57.869973"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "el precio de la soledad",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "el precio de la soledad",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:36:18.648035"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "que vuelvas",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "que vuelvas",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:36:43.823743"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "regalo de dios",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "regalo de dios",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:28:11.091860"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "se va muriendo mi alma",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "se va muriendo mi alma",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:36:01.214963"
+  },
+  {
+    "song_key": "banda ms - el color de tus ojos",
+    "related_song_key": "donde andara",
+    "song_label": "Banda MS - El color de tus ojos",
+    "related_song_label": "Donde andara",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:24:44.653246"
+  },
+  {
+    "song_key": "chayanne - madre tierra (oye) (version karaoke)",
+    "related_song_key": "the champs - tequila",
+    "song_label": "Chayanne - Madre Tierra (Oye) (Versión Karaoke)",
+    "related_song_label": "The Champs - Tequila",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:31:59.791780"
+  },
+  {
+    "song_key": "como te va mi amor - pandora",
+    "related_song_key": "muriendo lento - moderatto y belinda",
+    "song_label": "como te va mi amor - pandora",
+    "related_song_label": "muriendo lento - moderatto y belinda",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:41:01.624514"
+  },
+  {
+    "song_key": "cuando abras los ojos - los unicos de mexico",
+    "related_song_key": "el cariño que perdi",
+    "song_label": "cuando abras los ojos - los unicos de mexico",
+    "related_song_label": "El cariño que perdi",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-15 00:05:50.916469"
+  },
+  {
+    "song_key": "donde andara",
+    "related_song_key": "chayanne - madre tierra (oye) (version karaoke)",
+    "song_label": "Donde andara",
+    "related_song_label": "Chayanne - Madre Tierra (Oye) (Versión Karaoke)",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:27:19.028523"
+  },
+  {
+    "song_key": "el cariño que perdi",
+    "related_song_key": "años napoleon",
+    "song_label": "El cariño que perdi",
+    "related_song_label": "años napoleon",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-15 00:09:39.149811"
+  },
+  {
+    "song_key": "el chico del apartamento 512 - selena",
+    "related_song_key": "sembrador de amor",
+    "song_label": "el chico del apartamento 512 - selena",
+    "related_song_label": "Sembrador De Amor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 21:55:47.858328"
+  },
+  {
+    "song_key": "el rey de mil coronas",
+    "related_song_key": "sentimental",
+    "song_label": "EL REY DE MIL CORONAS",
+    "related_song_label": "Sentimental",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:50:09.429929"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "andar conmigo",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "ANDAR CONMIGO",
+    "weight": 2.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:41:21.674005"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "daria",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "DARIA",
+    "weight": 2.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:41:13.246923"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "ya te olvide - yuridia",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Ya Te Olvidé - Yuridia",
+    "weight": 2.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:39:58.679529"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "algo mas",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Algo Más",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:43:49.686608"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "angel",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "ANGEL",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:43:26.298729"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "de que me sirve la vida",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "De Qué Me Sirve La Vida",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:44:12.794746"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "durmiendo con la luna - elefante",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Durmiendo Con La Luna - Elefante",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:44:50.791556"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "espacio sideral - jesse y joy",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Espacio Sideral - Jesse y Joy",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:42:13.050479"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "fuiste tu - arjona ft. gaby moreno",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "fuiste tu - arjona ft. gaby moreno",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:42:33.000839"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "la playa",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "La Playa",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:40:28.107675"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "me voy",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Me Voy",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:40:38.800744"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "no me enseñaste ( thalia",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "No me enseñaste ( Thalia",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:41:46.108923"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "no querias lastimarme - gloria trevi",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "no querias lastimarme - gloria trevi",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:41:00.534315"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "por ti",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Por ti",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:43:35.556079"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "que hago yo - ha-ash",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Qué Hago Yo - Ha-Ash",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:42:43.694922"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "que te queria - la 5ª estacion",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Que Te Queria - La 5ª Estacion",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:42:03.073946"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "rosas",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "ROSAS",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:40:17.095226"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "sirena = sin bandera",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "Sirena = Sin Bandera",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:44:23.451107"
+  },
+  {
+    "song_key": "el sol no regresa",
+    "related_song_key": "voy a pasarmelo bien",
+    "song_label": "El Sol No Regresa",
+    "related_song_label": "voy a pasarmelo bien",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:44:39.969714"
+  },
+  {
+    "song_key": "ella",
+    "related_song_key": "los angeles azules ft belinda - amor a primera vista",
+    "song_label": "Ella",
+    "related_song_label": "Los Ángeles Azules ft Belinda - Amor a Primera Vista",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:24:12.466296"
+  },
+  {
+    "song_key": "fragil - (yaritza y su esencia ft. grupo frontera)",
+    "related_song_key": "yuridia y angela aguilar - que agonia",
+    "song_label": "Frágil - (Yaritza Y Su Esencia Ft. Grupo Frontera)",
+    "related_song_label": "Yuridia y Angela Aguilar - Qué Agonía",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:56:39.764900"
+  },
+  {
+    "song_key": "hay unos ojos -karaoke jlg- los terribles del norte",
+    "related_song_key": "hermoso cariño - vicente fernandez",
+    "song_label": "HAY UNOS OJOS -Karaoke JLG- Los Terribles del Norte",
+    "related_song_label": "hermoso cariño - vicente fernandez",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:59:25.879170"
+  },
+  {
+    "song_key": "hermoso cariño - vicente fernandez",
+    "related_song_key": "shakira - bzrp music sessions #53 ( coros )",
+    "song_label": "hermoso cariño - vicente fernandez",
+    "related_song_label": "Shakira - BZRP Music Sessions #53 ( Coros )",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:03:30.128274"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "asi no te amara jamas - amanda miguel",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "asi no te amara jamas - amanda miguel",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:46:13.302766"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "como te va mi amor-pandora",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "Como te va mi amor-Pandora",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:46:22.107012"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "cosas del amor",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "cosas del amor",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:47:15.771811"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "el me mintio",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "el me mintio",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:45:54.536312"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "madita primavera",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "madita primavera",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:46:40.540492"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "olvidame y pega la vuelta - pimpinela",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "Olvidame Y Pega La Vuelta - Pimpinela",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:47:00.612525"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "que ganas de no verte nunca mas",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "Qué ganas de no verte nunca más",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:46:47.600693"
+  },
+  {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "quitame ese hombre",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "Quitame ese hombre",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:46:05.608910"
+  },
+  {
+    "song_key": "la ley del monte",
+    "related_song_key": "mis ojos lloran por ti - big boy",
+    "song_label": "la ley del monte",
+    "related_song_label": "Mis ojos lloran por ti - Big Boy",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:15:35.121748"
+  },
+  {
+    "song_key": "la lupita - contrabando y traicion",
+    "related_song_key": "banda ms - el color de tus ojos",
+    "song_label": "La Lupita - Contrabando y traicion",
+    "related_song_label": "Banda MS - El color de tus ojos",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:21:24.045174"
+  },
+  {
+    "song_key": "la pareja ideal a duo con marco antonio solis",
+    "related_song_key": "como te va mi amor - pandora",
+    "song_label": "la pareja ideal a duo con marco antonio solis",
+    "related_song_label": "como te va mi amor - pandora",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:35:59.483288"
+  },
+  {
+    "song_key": "los angeles azules con jay de la cueva - 17 años (kk)",
+    "related_song_key": "angeles azules - 17 años",
+    "song_label": "Los Ángeles Azules con Jay de la Cueva - 17 años (KK)",
+    "related_song_label": "Angeles Azules - 17 Años",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:02:26.679668"
+  },
+  {
+    "song_key": "los angeles azules ft belinda - amor a primera vista",
+    "related_song_key": "oiga - joan sebastian y prisma",
+    "song_label": "Los Ángeles Azules ft Belinda - Amor a Primera Vista",
+    "related_song_label": "oiga - joan sebastian y prisma",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:28:04.380228"
+  },
+  {
+    "song_key": "mi mayor anhelo - banda ms",
+    "related_song_key": "banda ms - el color de tus ojos",
+    "song_label": "Mi Mayor Anhelo - Banda MS",
+    "related_song_label": "Banda MS - El color de tus ojos",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:49:20.605097"
+  },
+  {
+    "song_key": "mi mayor anhelo - banda ms",
+    "related_song_key": "cual adios",
+    "song_label": "Mi Mayor Anhelo - Banda MS",
+    "related_song_label": "cuál adiós",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:48:48.447046"
+  },
+  {
+    "song_key": "mi mayor anhelo - banda ms",
+    "related_song_key": "regalo de dios",
+    "song_label": "Mi Mayor Anhelo - Banda MS",
+    "related_song_label": "regalo de dios",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:48:40.800322"
+  },
+  {
+    "song_key": "mi mayor anhelo - banda ms",
+    "related_song_key": "se va muriendo mi alma",
+    "song_label": "Mi Mayor Anhelo - Banda MS",
+    "related_song_label": "se va muriendo mi alma",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:49:07.922905"
+  },
+  {
+    "song_key": "mi mayor anhelo - banda ms",
+    "related_song_key": "si te pudiera mentir",
+    "song_label": "Mi Mayor Anhelo - Banda MS",
+    "related_song_label": "Si te pudiera mentir",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 11:48:57.396875"
+  },
+  {
+    "song_key": "mis ojos lloran por ti - big boy",
+    "related_song_key": "ella",
+    "song_label": "Mis ojos lloran por ti - Big Boy",
+    "related_song_label": "Ella",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:21:06.046555"
+  },
+  {
+    "song_key": "muriendo lento - moderatto y belinda",
+    "related_song_key": "hay unos ojos -karaoke jlg- los terribles del norte",
+    "song_label": "muriendo lento - moderatto y belinda",
+    "related_song_label": "HAY UNOS OJOS -Karaoke JLG- Los Terribles del Norte",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:55:37.896839"
+  },
+  {
+    "song_key": "noreste caliente - 45 grados",
+    "related_song_key": "la ley del monte",
+    "song_label": "Noreste Caliente - 45 grados",
+    "related_song_label": "la ley del monte",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:12:39.078004"
+  },
+  {
+    "song_key": "oiga - joan sebastian y prisma",
+    "related_song_key": "la pareja ideal a duo con marco antonio solis",
+    "song_label": "oiga - joan sebastian y prisma",
+    "related_song_label": "la pareja ideal a duo con marco antonio solis",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:31:50.381505"
+  },
+  {
+    "song_key": "rosa pastel - belanova",
+    "related_song_key": "la lupita - contrabando y traicion",
+    "song_label": "rosa pastel - belanova",
+    "related_song_label": "La Lupita - Contrabando y traicion",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:17:36.463935"
+  },
+  {
+    "song_key": "secreto de amor",
+    "related_song_key": "tatuajes",
+    "song_label": "Secreto De Amor",
+    "related_song_label": "Tatuajes",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 00:23:09.012134"
+  },
+  {
+    "song_key": "secreto de amor - joan sebastian",
+    "related_song_key": "tatuajes-joan sebastian",
+    "song_label": "SECRETO DE AMOR - JOAN SEBASTIAN",
+    "related_song_label": "Tatuajes-Joan Sebastian",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 00:15:46.215789"
+  },
+  {
+    "song_key": "sembrador de amor",
+    "related_song_key": "los angeles azules con jay de la cueva - 17 años (kk)",
+    "song_label": "Sembrador De Amor",
+    "related_song_label": "Los Ángeles Azules con Jay de la Cueva - 17 años (KK)",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 22:01:46.696347"
+  },
+  {
+    "song_key": "sentimental",
+    "related_song_key": "fragil - (yaritza y su esencia ft. grupo frontera)",
+    "song_label": "Sentimental",
+    "related_song_label": "Frágil - (Yaritza Y Su Esencia Ft. Grupo Frontera)",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:53:31.282537"
+  },
+  {
+    "song_key": "shakira - bzrp music sessions #53 ( coros )",
+    "related_song_key": "rosa pastel - belanova",
+    "song_label": "Shakira - BZRP Music Sessions #53 ( Coros )",
+    "related_song_label": "rosa pastel - belanova",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:07:07.824465"
+  },
+  {
+    "song_key": "the champs - tequila",
+    "related_song_key": "el rey de mil coronas",
+    "song_label": "The Champs - Tequila",
+    "related_song_label": "EL REY DE MIL CORONAS",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:48:25.008852"
+  },
+  {
+    "song_key": "tiene espinas el rosal",
+    "related_song_key": "corazon solitario",
+    "song_label": "Tiene Espinas el Rosal",
+    "related_song_label": "corazón solitario",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 00:24:06.985166"
+  },
+  {
+    "song_key": "tiene espinas el rosal",
+    "related_song_key": "echarme al olvido",
+    "song_label": "Tiene Espinas el Rosal",
+    "related_song_label": "Echarme al olvido",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 00:24:39.915886"
+  },
+  {
+    "song_key": "tiene espinas el rosal",
+    "related_song_key": "no te voy a perdonar grupo cañaveral",
+    "song_label": "Tiene Espinas el Rosal",
+    "related_song_label": "No Te Voy A Perdonar Grupo Cañaveral",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 00:25:06.142716"
+  },
+  {
+    "song_key": "tiene espinas el rosal",
+    "related_song_key": "todo me gusta de ti",
+    "song_label": "Tiene Espinas el Rosal",
+    "related_song_label": "Todo Me Gusta De Ti",
+    "weight": 1.0,
+    "source": "manual_ui",
+    "updated_at": "2026-03-02 00:24:24.722019"
+  },
+  {
+    "song_key": "vamos a darnos tiempo-jose jose",
+    "related_song_key": "cuando abras los ojos - los unicos de mexico",
+    "song_label": "Vamos A Darnos Tiempo-Jose Jose",
+    "related_song_label": "cuando abras los ojos - los unicos de mexico",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-15 00:00:27.272181"
+  },
+  {
+    "song_key": "yuridia y angela aguilar - que agonia",
+    "related_song_key": "vamos a darnos tiempo-jose jose",
+    "song_label": "Yuridia y Angela Aguilar - Qué Agonía",
+    "related_song_label": "Vamos A Darnos Tiempo-Jose Jose",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-03-14 23:59:39.281344"
+  }
+]
