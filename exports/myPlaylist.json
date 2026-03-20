@@ -1,0 +1,121 @@
+[
+  {
+    "id": "bdc45152bb874f1e9383011f1025b952",
+    "nombre": "Kikekaraoke",
+    "created_at": "2026-02-14 20:00:39.598269",
+    "updated_at": "2026-03-14 14:17:29.481703",
+    "last_visited_at": "2026-03-14 14:17:29.481703"
+  },
+  {
+    "id": "0d3c7bfe9c7b4664bb454b008e1c33e3",
+    "nombre": "Luisa",
+    "created_at": "2026-02-14 20:00:39.640347",
+    "updated_at": "2026-03-14 14:17:30.699525",
+    "last_visited_at": "2026-03-14 14:17:30.699525"
+  },
+  {
+    "id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre": "Ruben Alanis",
+    "created_at": "2026-02-14 20:00:39.690909",
+    "updated_at": "2026-03-19 19:16:27.484949",
+    "last_visited_at": "2026-03-19 19:16:27.484949"
+  },
+  {
+    "id": "0568a9df902b47c99fceb0b28b92ea55",
+    "nombre": "Perlita",
+    "created_at": "2026-02-14 20:00:39.711475",
+    "updated_at": "2026-03-01 22:44:00.141870",
+    "last_visited_at": "2026-03-01 22:44:00.141870"
+  },
+  {
+    "id": "7a9f5fbfe4c647cc86b24f87c387cd63",
+    "nombre": "cristian Santas Alitas",
+    "created_at": "2026-02-14 20:00:39.711475",
+    "updated_at": "2026-02-14 20:17:46.781408",
+    "last_visited_at": "2026-02-14 20:17:46.781408"
+  },
+  {
+    "id": "c78276ca9375420da849cbd5709961ef",
+    "nombre": "Para Perlita",
+    "created_at": "2026-02-14 20:00:39.754974",
+    "updated_at": "2026-02-14 20:17:46.808556",
+    "last_visited_at": "2026-02-14 20:17:46.808556"
+  },
+  {
+    "id": "632d65b5c6ed42008f19e5eec1d39963",
+    "nombre": "Renata (Mirador)",
+    "created_at": "2026-02-14 20:00:39.768880",
+    "updated_at": "2026-02-14 20:17:46.754659",
+    "last_visited_at": "2026-02-14 20:17:46.754659"
+  },
+  {
+    "id": "e2914509e8d645729c4cf12c489b158e",
+    "nombre": "Isabel Souza",
+    "created_at": "2026-02-14 20:00:39.828241",
+    "updated_at": "2026-02-14 20:17:46.792598",
+    "last_visited_at": "2026-02-14 20:17:46.792598"
+  },
+  {
+    "id": "d050849779634f04aa6fc037373ad998",
+    "nombre": "Ana Karen",
+    "created_at": "2026-02-14 20:00:39.859046",
+    "updated_at": "2026-03-18 16:11:40.612614",
+    "last_visited_at": "2026-03-18 16:11:40.612614"
+  },
+  {
+    "id": "4d58cfb006b749fab867242b2198dddd",
+    "nombre": "DINORAH",
+    "created_at": "2026-02-14 20:02:46.852711",
+    "updated_at": "2026-02-15 19:20:30.057831",
+    "last_visited_at": "2026-02-15 19:20:30.057831"
+  },
+  {
+    "id": "f2762fd3841a41ce9087a2ad1d903adf",
+    "nombre": "MAESTRO JABEL RESÉNDIZ",
+    "created_at": "2026-02-14 20:02:46.907771",
+    "updated_at": "2026-02-14 20:17:46.955671",
+    "last_visited_at": "2026-02-14 20:17:46.955671"
+  },
+  {
+    "id": "67a5e3de15d54ac68218646b28acd135",
+    "nombre": "HECTOR Y ALEJANDRO",
+    "created_at": "2026-02-14 20:02:46.917219",
+    "updated_at": "2026-02-14 20:17:47.061459",
+    "last_visited_at": "2026-02-14 20:17:47.061459"
+  },
+  {
+    "id": "62b5168c15d7452d934c1ebd921778a4",
+    "nombre": "MARISOL",
+    "created_at": "2026-02-14 20:02:47.026235",
+    "updated_at": "2026-02-14 20:17:47.078644",
+    "last_visited_at": "2026-02-14 20:17:47.078644"
+  },
+  {
+    "id": "44692e13519345efafc3b59f39be1c0a",
+    "nombre": "PAULINA JURIQUILLA 2024",
+    "created_at": "2026-02-14 20:02:47.047966",
+    "updated_at": "2026-02-14 20:17:47.198070",
+    "last_visited_at": "2026-02-14 20:17:47.198070"
+  },
+  {
+    "id": "0eeae274bf0e474aa3094d468b729aec",
+    "nombre": "BAR - ROCK EN TU IDIOMA",
+    "created_at": "2026-02-14 20:02:47.281395",
+    "updated_at": "2026-02-14 20:17:47.257286",
+    "last_visited_at": "2026-02-14 20:17:47.257286"
+  },
+  {
+    "id": "e5aeac330a614ccab352125877cbef75",
+    "nombre": "ANA Y ALEXA PANIAGÜA JURIQUILLA",
+    "created_at": "2026-02-14 20:02:47.325653",
+    "updated_at": "2026-02-23 00:34:33.013235",
+    "last_visited_at": "2026-02-23 00:34:33.013235"
+  },
+  {
+    "id": "a78f8fb7d6954bce911438dcd7417359",
+    "nombre": "ALBERTO PEDRAZA",
+    "created_at": "2026-02-14 20:02:47.333676",
+    "updated_at": "2026-02-14 20:18:44.424415",
+    "last_visited_at": "2026-02-14 20:18:44.424415"
+  }
+]
