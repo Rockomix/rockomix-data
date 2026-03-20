@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "playlist_id": "bdc45152bb874f1e9383011f1025b952",
+    "nombre_playlist_snapshot": "Kikekaraoke",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-03-14 04:38:52",
+    "fecha_fin": "2026-03-14 04:39:42",
+    "activa": 0
+  },
+  {
+    "id": 2,
+    "playlist_id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre_playlist_snapshot": "Ruben Alanis",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-03-14 04:39:46",
+    "fecha_fin": "2026-03-14 04:41:03",
+    "activa": 0
+  },
+  {
+    "id": 3,
+    "playlist_id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre_playlist_snapshot": "Ruben Alanis",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-03-14 19:10:07",
+    "fecha_fin": "2026-03-15 00:17:10",
+    "activa": 0
+  },
+  {
+    "id": 4,
+    "playlist_id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre_playlist_snapshot": "Ruben Alanis",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-03-15 00:17:15",
+    "fecha_fin": "2026-03-15 00:17:26",
+    "activa": 0
+  },
+  {
+    "id": 5,
+    "playlist_id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre_playlist_snapshot": "Ruben Alanis",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-03-15 00:17:27",
+    "fecha_fin": "2026-03-15 00:17:30",
+    "activa": 0
+  },
+  {
+    "id": 6,
+    "playlist_id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre_playlist_snapshot": "Ruben Alanis",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-03-18 16:05:18",
+    "fecha_fin": "2026-03-19 19:16:27",
+    "activa": 0
+  }
+]
