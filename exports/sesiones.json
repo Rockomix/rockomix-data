@@ -52,5 +52,32 @@
     "fecha_inicio": "2026-03-18 16:05:18",
     "fecha_fin": "2026-03-19 19:16:27",
     "activa": 0
+  },
+  {
+    "id": 7,
+    "playlist_id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre_playlist_snapshot": "Ruben Alanis",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-04-11 21:23:48",
+    "fecha_fin": "2026-05-07 20:47:24",
+    "activa": 0
+  },
+  {
+    "id": 8,
+    "playlist_id": "5ecb4911fef34e74ab0469a150f3420a",
+    "nombre_playlist_snapshot": "Chicas Fontanar",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-05-07 20:47:43",
+    "fecha_fin": "2026-05-23 16:49:14",
+    "activa": 0
+  },
+  {
+    "id": 9,
+    "playlist_id": "1b6346b1a4cf4cbd81f9722d28b63f12",
+    "nombre_playlist_snapshot": "Ruben Alanis",
+    "tipo_evento_id": 1,
+    "fecha_inicio": "2026-05-23 19:51:52",
+    "fecha_fin": null,
+    "activa": 1
   }
 ]
