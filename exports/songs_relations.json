@@ -1,5 +1,68 @@
 [
   {
+    "song_key": ", 2, 3 - simbolo",
+    "related_song_key": "mi gusto es",
+    "song_label": ", 2, 3 - Simbolo",
+    "related_song_label": "mi gusto es",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:39:00.240694"
+  },
+  {
+    "song_key": "a mi manera - raphael",
+    "related_song_key": "a mi manera-vicente fernandez-k live-",
+    "song_label": "a mi manera - raphael",
+    "related_song_label": "A MI MANERA-VICENTE FERNANDEZ-K LIVE-",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:47:07.043954"
+  },
+  {
+    "song_key": "a mi manera-vicente fernandez-k live-",
+    "related_song_key": "exfeb1708 - vicente fernandez - a mi manera",
+    "song_label": "A MI MANERA-VICENTE FERNANDEZ-K LIVE-",
+    "related_song_label": "ExFeb1708 - Vicente Fernandez - A Mi Manera",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:47:09.586322"
+  },
+  {
+    "song_key": "a mis enemigos",
+    "related_song_key": "estos celos",
+    "song_label": "A mis enemigos",
+    "related_song_label": "Estos Celos",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:34:43.636272"
+  },
+  {
+    "song_key": "a pesar de todo",
+    "related_song_key": "tu dama de hierro - marisela",
+    "song_label": "a pesar de todo",
+    "related_song_label": "tu dama de hierro - marisela",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:09:41.011183"
+  },
+  {
+    "song_key": "ago61 - diego verdaguer - pideme",
+    "related_song_key": "libro abierto",
+    "song_label": "AGO61 - Diego Verdaguer - Pídeme",
+    "related_song_label": "Libro abierto",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:07:33.398392"
+  },
+  {
+    "song_key": "alicia villareal & grupo limite - besos y copas",
+    "related_song_key": "puño de tierra",
+    "song_label": "Alicia Villareal & Grupo limite - Besos y copas",
+    "related_song_label": "puño de tierra",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:10:16.416228"
+  },
+  {
     "song_key": "almohada",
     "related_song_key": "amar y querer",
     "song_label": "ALMOHADA",
@@ -45,6 +108,24 @@
     "updated_at": "2026-03-02 12:00:58.579189"
   },
   {
+    "song_key": "amiga mia - yuri",
+    "related_song_key": "cosas del amor - ana gabriel y vicky carr",
+    "song_label": "amiga mia - yuri",
+    "related_song_label": "cosas del amor - ana gabriel y vicky carr",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:55:45.275970"
+  },
+  {
+    "song_key": "amores malditos",
+    "related_song_key": "mary es mi amor",
+    "song_label": "Amores Malditos",
+    "related_song_label": "mary es mi amor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:29:25.475544"
+  },
+  {
     "song_key": "angeles azules - 17 años",
     "related_song_key": "noreste caliente - 45 grados",
     "song_label": "Angeles Azules - 17 Años",
@@ -63,6 +144,42 @@
     "updated_at": "2026-03-14 21:52:06.028900"
   },
   {
+    "song_key": "antonio aguilar - ni un vaso de agua",
+    "related_song_key": "esa pared",
+    "song_label": "Antonio Aguilar - Ni un vaso de agua",
+    "related_song_label": "Esa pared",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:34:19.823427"
+  },
+  {
+    "song_key": "ariel camacho - hablemos",
+    "related_song_key": "exene1894 - los plebes del rancho - como fue",
+    "song_label": "ARIEL CAMACHO - HABLEMOS",
+    "related_song_label": "ExEne1894 - Los Plebes Del Rancho - Como Fue",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:03:52.788181"
+  },
+  {
+    "song_key": "asi fue",
+    "related_song_key": "juan gabriel - abrazame muy fuerte",
+    "song_label": "asi fue",
+    "related_song_label": "Juan Gabriel - Abrazame Muy Fuerte",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 01:21:57.723990"
+  },
+  {
+    "song_key": "años",
+    "related_song_key": "si nos dejan",
+    "song_label": "años",
+    "related_song_label": "Si nos dejan",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:52:54.901487"
+  },
+  {
     "song_key": "años napoleon",
     "related_song_key": "te aprovechas - limite",
     "song_label": "años napoleon",
@@ -70,6 +187,24 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-15 00:15:09.127079"
+  },
+  {
+    "song_key": "banda los sebastianes - a traves del vaso",
+    "related_song_key": "pp2021202 - fuerza regida ft manuel turizo - una cerveza",
+    "song_label": "Banda Los Sebastianes - A través del vaso",
+    "related_song_label": "PP2021202 - Fuerza Regida ft Manuel Turizo - Una Cerveza",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:58:32.247735"
+  },
+  {
+    "song_key": "banda maguey - tu eterno enamorado (luis fer karaokes)",
+    "related_song_key": "el espejo",
+    "song_label": "Banda Maguey - Tu Eterno Enamorado (Luis Fer KarAokes)",
+    "related_song_label": "El espejo",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:35:47.904835"
   },
   {
     "song_key": "banda ms - el color de tus ojos",
@@ -171,6 +306,69 @@
     "updated_at": "2026-03-14 23:24:44.653246"
   },
   {
+    "song_key": "belinda - detras de mi ventana",
+    "related_song_key": "belinda - es ella mas que yo",
+    "song_label": "Belinda - Detrás de mi Ventana",
+    "related_song_label": "Belinda - Es Ella Más Que Yo",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:49:34.568792"
+  },
+  {
+    "song_key": "belinda - detras de mi ventana",
+    "related_song_key": "por que me haces llorar",
+    "song_label": "Belinda - Detrás de mi Ventana",
+    "related_song_label": "Por que me haces Llorar",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:14:00.187625"
+  },
+  {
+    "song_key": "belinda - es ella mas que yo",
+    "related_song_key": "el poder de tu amor - ricardo montaner",
+    "song_label": "Belinda - Es Ella Más Que Yo",
+    "related_song_label": "el poder de tu amor - ricardo montaner",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:50:34.505546"
+  },
+  {
+    "song_key": "belleza de cantina - los cardenales de nuevo leon - copia",
+    "related_song_key": "hay unos ojos -karaoke jlg- los terribles del norte",
+    "song_label": "Belleza De Cantina - Los Cardenales De Nuevo Leon - copia",
+    "related_song_label": "HAY UNOS OJOS -Karaoke JLG- Los Terribles del Norte",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:58:56.440397"
+  },
+  {
+    "song_key": "besos y copas - jenni rivera",
+    "related_song_key": "alicia villareal & grupo limite - besos y copas",
+    "song_label": "Besos y Copas - Jenni Rivera",
+    "related_song_label": "Alicia Villareal & Grupo limite - Besos y copas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:04:13.687420"
+  },
+  {
+    "song_key": "briseyda solis - cuando abras los ojos (karaoke)",
+    "related_song_key": "si yo fuera el - los cardenales de nuevo leon",
+    "song_label": "Briseyda Solis - Cuando Abras Los Ojos (Karaoke)",
+    "related_song_label": "si yo fuera el - los cardenales de nuevo leon",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:48:35.339221"
+  },
+  {
+    "song_key": "caminos de guanajuato",
+    "related_song_key": "la ley del monte",
+    "song_label": "Caminos De Guanajuato",
+    "related_song_label": "la ley del monte",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:18:20.614193"
+  },
+  {
     "song_key": "chayanne - madre tierra (oye) (version karaoke)",
     "related_song_key": "the champs - tequila",
     "song_label": "Chayanne - Madre Tierra (Oye) (Versión Karaoke)",
@@ -178,6 +376,42 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 23:31:59.791780"
+  },
+  {
+    "song_key": "cielo azul, cielo nublado",
+    "related_song_key": "quiero que sepas",
+    "song_label": "cielo azul, cielo nublado",
+    "related_song_label": "quiero que sepas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 23:01:13.252854"
+  },
+  {
+    "song_key": "cien años",
+    "related_song_key": "tzl032-06 - fernandez, pedro - yo el aventurero",
+    "song_label": "cien años",
+    "related_song_label": "TZL032-06 - Fernandez, Pedro - Yo El Aventurero",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:00:42.393775"
+  },
+  {
+    "song_key": "colgando en tus manos - carlos baute y marta sanchez",
+    "related_song_key": "la calle de las sirenas - kabah",
+    "song_label": "colgando en tus manos - carlos baute y marta sanchez",
+    "related_song_label": "La Calle De Las Sirenas - Kabah",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-12 19:18:21.917435"
+  },
+  {
+    "song_key": "como te extraño, mi amor",
+    "related_song_key": "por que me haces llorar",
+    "song_label": "Cómo te extraño, mi amor",
+    "related_song_label": "Por que me haces Llorar",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:40:24.427379"
   },
   {
     "song_key": "como te va mi amor - pandora",
@@ -189,6 +423,42 @@
     "updated_at": "2026-03-14 22:41:01.624514"
   },
   {
+    "song_key": "como tu mujer",
+    "related_song_key": "maria jose - lo que tenias conmigo",
+    "song_label": "Como Tu Mujer",
+    "related_song_label": "Maria Jose - Lo Que Tenías Conmigo",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:15:18.335115"
+  },
+  {
+    "song_key": "con los ojos cerrados",
+    "related_song_key": "eternamente bella",
+    "song_label": "con los ojos cerrados",
+    "related_song_label": "eternamente bella",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:36:16.334297"
+  },
+  {
+    "song_key": "cosas del amor - ana gabriel y vicky carr",
+    "related_song_key": "luis eduardo - sin tu latido",
+    "song_label": "cosas del amor - ana gabriel y vicky carr",
+    "related_song_label": "LUIS EDUARDO - SIN TU LATIDO",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:00:50.562603"
+  },
+  {
+    "song_key": "cosas del amor - ana gabriel y vicky carr",
+    "related_song_key": "mas que tu amigo - marco antonio solis",
+    "song_label": "cosas del amor - ana gabriel y vicky carr",
+    "related_song_label": "mas que tu amigo - marco antonio solis",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:23:30.491560"
+  },
+  {
     "song_key": "cuando abras los ojos - los unicos de mexico",
     "related_song_key": "el cariño que perdi",
     "song_label": "cuando abras los ojos - los unicos de mexico",
@@ -198,6 +468,51 @@
     "updated_at": "2026-03-15 00:05:50.916469"
   },
   {
+    "song_key": "cuando baja la marea(aire)",
+    "related_song_key": "que bello - sonora tropicana",
+    "song_label": "Cuando baja la marea(aire)",
+    "related_song_label": "que bello - sonora tropicana",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:49:46.322591"
+  },
+  {
+    "song_key": "daria - la quinta estacion",
+    "related_song_key": "cosas del amor - ana gabriel y vicky carr",
+    "song_label": "daria - la quinta estacion",
+    "related_song_label": "cosas del amor - ana gabriel y vicky carr",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:09:37.096517"
+  },
+  {
+    "song_key": "dco846-01 - jose alfredo jimenez - ella",
+    "related_song_key": "j.a.jimenez - ella",
+    "song_label": "Dco846-01 - Jose Alfredo Jimenez - Ella",
+    "related_song_label": "J.A.Jimenez - ELLA",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:51:23.891721"
+  },
+  {
+    "song_key": "de musica ligera - soda stereo",
+    "related_song_key": "enanitos verdes - lamento boliviano",
+    "song_label": "de musica ligera - soda stereo",
+    "related_song_label": "Enanitos Verdes - Lamento boliviano",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 01:03:15.845826"
+  },
+  {
+    "song_key": "diseñame",
+    "related_song_key": "ago61 - diego verdaguer - pideme",
+    "song_label": "DiseÑame",
+    "related_song_label": "AGO61 - Diego Verdaguer - Pídeme",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:03:27.740443"
+  },
+  {
     "song_key": "donde andara",
     "related_song_key": "chayanne - madre tierra (oye) (version karaoke)",
     "song_label": "Donde andara",
@@ -205,6 +520,33 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 23:27:19.028523"
+  },
+  {
+    "song_key": "dos tardes de mi vida - rigo tovar y su costa azul",
+    "related_song_key": "mi amiga, me esposa, mi amante - rigo tovar y su costa azul",
+    "song_label": "dos tardes de mi vida - rigo tovar y su costa azul",
+    "related_song_label": "mi amiga, me esposa, mi amante - rigo tovar y su costa azul",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:16:10.792243"
+  },
+  {
+    "song_key": "dr, psiquiatra",
+    "related_song_key": "todos me miran",
+    "song_label": "Dr, Psiquiatra",
+    "related_song_label": "todos me miran",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:20:09.552588"
+  },
+  {
+    "song_key": "el breve espacio",
+    "related_song_key": "el privilegio de amar",
+    "song_label": "el breve espacio",
+    "related_song_label": "el privilegio de amar",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:14:37.964721"
   },
   {
     "song_key": "el cariño que perdi",
@@ -223,6 +565,78 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 21:55:47.858328"
+  },
+  {
+    "song_key": "el espejo",
+    "related_song_key": "mentiras",
+    "song_label": "El espejo",
+    "related_song_label": "mentiras",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:40:44.940676"
+  },
+  {
+    "song_key": "el jinete",
+    "related_song_key": "la malagueña - pedro infante",
+    "song_label": "El Jinete",
+    "related_song_label": "La malagueña - Pedro Infante",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-12 00:12:38.532936"
+  },
+  {
+    "song_key": "el noa noa",
+    "related_song_key": "años",
+    "song_label": "El noa noa",
+    "related_song_label": "años",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:48:31.757708"
+  },
+  {
+    "song_key": "el palomito",
+    "related_song_key": "no hay novedad",
+    "song_label": "El Palomito",
+    "related_song_label": "No Hay Novedad",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:56:29.372244"
+  },
+  {
+    "song_key": "el palomito -",
+    "related_song_key": "el palomito",
+    "song_label": "el palomito -",
+    "related_song_label": "El Palomito",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:55:59.908661"
+  },
+  {
+    "song_key": "el poder de tu amor - ricardo montaner",
+    "related_song_key": "amiga mia - yuri",
+    "song_label": "el poder de tu amor - ricardo montaner",
+    "related_song_label": "amiga mia - yuri",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:55:03.075060"
+  },
+  {
+    "song_key": "el privilegio de amar",
+    "related_song_key": "mijares - si me tenias",
+    "song_label": "el privilegio de amar",
+    "related_song_label": "Mijares - Si Me Tenias",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:14:41.755217"
+  },
+  {
+    "song_key": "el rey",
+    "related_song_key": "ella",
+    "song_label": "el rey",
+    "related_song_label": "Ella",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:35:11.061805"
   },
   {
     "song_key": "el rey de mil coronas",
@@ -405,6 +819,33 @@
     "updated_at": "2026-03-02 11:44:39.969714"
   },
   {
+    "song_key": "el sol no regresa",
+    "related_song_key": "volver a amar",
+    "song_label": "el sol no regresa",
+    "related_song_label": "volver a amar",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:57:53.561133"
+  },
+  {
+    "song_key": "el ultimo beso",
+    "related_song_key": "insensible a ti - alicia villareal",
+    "song_label": "El Ultimo Beso",
+    "related_song_label": "insensible a ti - alicia villareal",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:45:17.984728"
+  },
+  {
+    "song_key": "ella",
+    "related_song_key": "jose alfredo jimenez - ella",
+    "song_label": "ella",
+    "related_song_label": "Jose Alfredo Jimenez - Ella",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:50:02.152756"
+  },
+  {
     "song_key": "ella",
     "related_song_key": "los angeles azules ft belinda - amor a primera vista",
     "song_label": "Ella",
@@ -412,6 +853,96 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 22:24:12.466296"
+  },
+  {
+    "song_key": "ella",
+    "related_song_key": "noches eternas",
+    "song_label": "Ella",
+    "related_song_label": "noches eternas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:20:57.649568"
+  },
+  {
+    "song_key": "ella",
+    "related_song_key": "voy a conquistarte - diego verdaguer",
+    "song_label": "Ella",
+    "related_song_label": "Voy a conquistarte - Diego Verdaguer",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:38:26.866104"
+  },
+  {
+    "song_key": "enanitos verdes - lamento boliviano",
+    "related_song_key": "me gustas mucho - rocio durcal",
+    "song_label": "Enanitos Verdes - Lamento boliviano",
+    "related_song_label": "me gustas mucho - rocio durcal",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 01:07:41.331145"
+  },
+  {
+    "song_key": "esa pared",
+    "related_song_key": "como te extraño, mi amor",
+    "song_label": "Esa pared",
+    "related_song_label": "Cómo te extraño, mi amor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:37:19.752288"
+  },
+  {
+    "song_key": "ese hombre",
+    "related_song_key": "con los ojos cerrados",
+    "song_label": "ese hombre",
+    "related_song_label": "con los ojos cerrados",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:31:08.661321"
+  },
+  {
+    "song_key": "eso y mas [kk] - joan sebastian",
+    "related_song_key": "hay unos ojos -karaoke jlg- los terribles del norte",
+    "song_label": "eso y mas [kk] - joan sebastian",
+    "related_song_label": "HAY UNOS OJOS -Karaoke JLG- Los Terribles del Norte",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 22:56:05.500944"
+  },
+  {
+    "song_key": "estos celos",
+    "related_song_key": "una pagina mas",
+    "song_label": "Estos Celos",
+    "related_song_label": "una pagina mas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:38:31.867816"
+  },
+  {
+    "song_key": "eternamente bella",
+    "related_song_key": "volverte a amar",
+    "song_label": "eternamente bella",
+    "related_song_label": "Volverte A Amar",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:39:37.869810"
+  },
+  {
+    "song_key": "exene1894 - los plebes del rancho - como fue",
+    "related_song_key": "pp2021384 - los alegres del barranco - el dueño del palenque",
+    "song_label": "ExEne1894 - Los Plebes Del Rancho - Como Fue",
+    "related_song_label": "PP2021384 - Los Alegres Del Barranco - El Dueño Del Palenque",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:10:49.693887"
+  },
+  {
+    "song_key": "exfeb1708 - vicente fernandez - a mi manera",
+    "related_song_key": "perdon",
+    "song_label": "ExFeb1708 - Vicente Fernandez - A Mi Manera",
+    "related_song_label": "perdon",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:54:26.248066"
   },
   {
     "song_key": "fragil - (yaritza y su esencia ft. grupo frontera)",
@@ -423,6 +954,33 @@
     "updated_at": "2026-03-14 23:56:39.764900"
   },
   {
+    "song_key": "fuiste tu - arjona ft. gaby moreno",
+    "related_song_key": "insensible a ti - alicia villareal",
+    "song_label": "fuiste tu - arjona ft. gaby moreno",
+    "related_song_label": "insensible a ti - alicia villareal",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:52:39.630092"
+  },
+  {
+    "song_key": "golpes en el corazon - los tigres del norte",
+    "related_song_key": "ella",
+    "song_label": "GOLPES EN EL CORAZON - LOS TIGRES DEL NORTE",
+    "related_song_label": "ella",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:49:45.183797"
+  },
+  {
+    "song_key": "hay unos ojos -karaoke jlg- los terribles del norte",
+    "related_song_key": "ariel camacho - hablemos",
+    "song_label": "HAY UNOS OJOS -Karaoke JLG- Los Terribles del Norte",
+    "related_song_label": "ARIEL CAMACHO - HABLEMOS",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:00:45.977936"
+  },
+  {
     "song_key": "hay unos ojos -karaoke jlg- los terribles del norte",
     "related_song_key": "hermoso cariño - vicente fernandez",
     "song_label": "HAY UNOS OJOS -Karaoke JLG- Los Terribles del Norte",
@@ -432,6 +990,15 @@
     "updated_at": "2026-03-14 22:59:25.879170"
   },
   {
+    "song_key": "hay unos ojos -karaoke jlg- los terribles del norte",
+    "related_song_key": "nube viajera",
+    "song_label": "HAY UNOS OJOS -Karaoke JLG- Los Terribles del Norte",
+    "related_song_label": "Nube Viajera",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:03:50.656243"
+  },
+  {
     "song_key": "hermoso cariño - vicente fernandez",
     "related_song_key": "shakira - bzrp music sessions #53 ( coros )",
     "song_label": "hermoso cariño - vicente fernandez",
@@ -439,6 +1006,87 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 23:03:30.128274"
+  },
+  {
+    "song_key": "insensible a ti - alicia villareal",
+    "related_song_key": "de musica ligera - soda stereo",
+    "song_label": "insensible a ti - alicia villareal",
+    "related_song_label": "de musica ligera - soda stereo",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:59:07.215130"
+  },
+  {
+    "song_key": "insensible a ti - alicia villareal",
+    "related_song_key": "pablo montero - hay otra en tu lugar",
+    "song_label": "insensible a ti - alicia villareal",
+    "related_song_label": "Pablo Montero - Hay Otra En Tu Lugar",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:50:47.933951"
+  },
+  {
+    "song_key": "j.a.jimenez - ella",
+    "related_song_key": "cien años",
+    "song_label": "J.A.Jimenez - ELLA",
+    "related_song_label": "cien años",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:56:33.698791"
+  },
+  {
+    "song_key": "jose alfredo jimenez - el jinete",
+    "related_song_key": "el jinete",
+    "song_label": "Jose Alfredo Jimenez - El Jinete",
+    "related_song_label": "El Jinete",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-12 00:09:03.676889"
+  },
+  {
+    "song_key": "jose alfredo jimenez - ella",
+    "related_song_key": "dco846-01 - jose alfredo jimenez - ella",
+    "song_label": "Jose Alfredo Jimenez - Ella",
+    "related_song_label": "Dco846-01 - Jose Alfredo Jimenez - Ella",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:50:13.145764"
+  },
+  {
+    "song_key": "kany garcia, carin leon - te lo agradezco",
+    "related_song_key": "vete ya - valentin elizalde",
+    "song_label": "Kany García, Carin Leon - Te Lo Agradezco",
+    "related_song_label": "vete ya - valentin elizalde",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:28:11.879927"
+  },
+  {
+    "song_key": "la calle de las sirenas - kabah",
+    "related_song_key": "sf290-03 - bieber, justin & ludacris - baby",
+    "song_label": "La Calle De Las Sirenas - Kabah",
+    "related_song_label": "SF290-03 - Bieber, Justin & Ludacris - Baby",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-12 20:48:06.278877"
+  },
+  {
+    "song_key": "la chona",
+    "related_song_key": "mch18-sp-207 - milo manheim & meg donnelly - someday",
+    "song_label": "La Chona",
+    "related_song_label": "MCH18-SP-207 - Milo Manheim & Meg Donnelly - Someday",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-12 21:04:23.950998"
+  },
+  {
+    "song_key": "la diferencia",
+    "related_song_key": "asi fue",
+    "song_label": "La Diferencia",
+    "related_song_label": "asi fue",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 01:15:14.715934"
   },
   {
     "song_key": "la gata bajo la lluvia",
@@ -513,6 +1161,33 @@
     "updated_at": "2026-03-02 11:46:05.608910"
   },
   {
+    "song_key": "la gata bajo la lluvia",
+    "related_song_key": "lobo - dulce",
+    "song_label": "La Gata Bajo La Lluvia",
+    "related_song_label": "lobo - dulce",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:37:28.075448"
+  },
+  {
+    "song_key": "la interesada - chava flores",
+    "related_song_key": "antonio aguilar - ni un vaso de agua",
+    "song_label": "LA INTERESADA - CHAVA FLORES",
+    "related_song_label": "Antonio Aguilar - Ni un vaso de agua",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:30:13.070761"
+  },
+  {
+    "song_key": "la ley del monte",
+    "related_song_key": "amores malditos",
+    "song_label": "la ley del monte",
+    "related_song_label": "Amores Malditos",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:22:02.759823"
+  },
+  {
     "song_key": "la ley del monte",
     "related_song_key": "mis ojos lloran por ti - big boy",
     "song_label": "la ley del monte",
@@ -540,6 +1215,60 @@
     "updated_at": "2026-03-14 22:35:59.483288"
   },
   {
+    "song_key": "la tertulia",
+    "related_song_key": "la interesada - chava flores",
+    "song_label": "La tertulia",
+    "related_song_label": "LA INTERESADA - CHAVA FLORES",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:27:21.283657"
+  },
+  {
+    "song_key": "las tres tumbas",
+    "related_song_key": ", 2, 3 - simbolo",
+    "song_label": "las tres tumbas",
+    "related_song_label": ", 2, 3 - Simbolo",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:34:10.277745"
+  },
+  {
+    "song_key": "libro abierto",
+    "related_song_key": "dos tardes de mi vida - rigo tovar y su costa azul",
+    "song_label": "Libro abierto",
+    "related_song_label": "dos tardes de mi vida - rigo tovar y su costa azul",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:11:42.913750"
+  },
+  {
+    "song_key": "lo busque",
+    "related_song_key": "fuiste tu - arjona ft. gaby moreno",
+    "song_label": "lo busque",
+    "related_song_label": "fuiste tu - arjona ft. gaby moreno",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:47:33.539300"
+  },
+  {
+    "song_key": "lo siento mi amor",
+    "related_song_key": "que ganas de no verte nunca mas",
+    "song_label": "Lo siento mi amor",
+    "related_song_label": "Qué ganas de no verte nunca más",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:58:30.245036"
+  },
+  {
+    "song_key": "lobo - dulce",
+    "related_song_key": "lo busque",
+    "song_label": "lobo - dulce",
+    "related_song_label": "lo busque",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:40:53.364031"
+  },
+  {
     "song_key": "los angeles azules con jay de la cueva - 17 años (kk)",
     "related_song_key": "angeles azules - 17 años",
     "song_label": "Los Ángeles Azules con Jay de la Cueva - 17 años (KK)",
@@ -556,6 +1285,159 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 22:28:04.380228"
+  },
+  {
+    "song_key": "luis eduardo - sin tu latido",
+    "related_song_key": "sin tu latido (luis aute)",
+    "song_label": "LUIS EDUARDO - SIN TU LATIDO",
+    "related_song_label": "Sin tu latido (Luis Aute)",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:01:05.187541"
+  },
+  {
+    "song_key": "luis miguel - no discutamos",
+    "related_song_key": "lupita d'lessio-mudanzas",
+    "song_label": "Luis Miguel - No discutamos",
+    "related_song_label": "Lupita D'Lessio-Mudanzas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:39:06.416847"
+  },
+  {
+    "song_key": "lupita d'lessio-mudanzas",
+    "related_song_key": "mudanzas - lupita dalessio",
+    "song_label": "Lupita D'Lessio-Mudanzas",
+    "related_song_label": "mudanzas - lupita dalessio",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:41:15.592521"
+  },
+  {
+    "song_key": "maldita primavera",
+    "related_song_key": "a pesar de todo",
+    "song_label": "maldita primavera",
+    "related_song_label": "a pesar de todo",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:05:25.307536"
+  },
+  {
+    "song_key": "maria jose - adelante corazon",
+    "related_song_key": "el sol no regresa",
+    "song_label": "maria jose - adelante corazon",
+    "related_song_label": "el sol no regresa",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-12 21:35:21.714853"
+  },
+  {
+    "song_key": "maria jose - lo que tenias conmigo",
+    "related_song_key": "ni guerra ni paz - lupita d'alessio",
+    "song_label": "Maria Jose - Lo Que Tenías Conmigo",
+    "related_song_label": "ni guerra ni paz - lupita d'alessio",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:21:08.000104"
+  },
+  {
+    "song_key": "mary es mi amor",
+    "related_song_key": "el rey",
+    "song_label": "mary es mi amor",
+    "related_song_label": "el rey",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:32:55.014450"
+  },
+  {
+    "song_key": "mas que tu amigo - marco antonio solis",
+    "related_song_key": "y hubo alguien-marc anthony",
+    "song_label": "mas que tu amigo - marco antonio solis",
+    "related_song_label": "Y hubo alguien-Marc Anthony",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:27:48.677598"
+  },
+  {
+    "song_key": "matalas",
+    "related_song_key": "arboles de la barranca - el coyote y su banda",
+    "song_label": "matalas",
+    "related_song_label": "arboles de la barranca - el coyote y su banda",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-29 17:48:57.082796"
+  },
+  {
+    "song_key": "mch18-sp-207 - milo manheim & meg donnelly - someday",
+    "related_song_key": "no me puedes dejar asi",
+    "song_label": "MCH18-SP-207 - Milo Manheim & Meg Donnelly - Someday",
+    "related_song_label": "No me puedes dejar asi",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-12 21:25:03.835490"
+  },
+  {
+    "song_key": "me gustas mucho - rocio durcal",
+    "related_song_key": "la diferencia",
+    "song_label": "me gustas mucho - rocio durcal",
+    "related_song_label": "La Diferencia",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 01:11:16.319411"
+  },
+  {
+    "song_key": "me pregunto - belanova",
+    "related_song_key": "pelo suelto",
+    "song_label": "me pregunto - belanova",
+    "related_song_label": "pelo suelto",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:35:32.534113"
+  },
+  {
+    "song_key": "mentiras",
+    "related_song_key": "a mi manera - raphael",
+    "song_label": "mentiras",
+    "related_song_label": "a mi manera - raphael",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:47:01.265033"
+  },
+  {
+    "song_key": "mi amiga, me esposa, mi amante - rigo tovar y su costa azul",
+    "related_song_key": "sabor de engaño",
+    "song_label": "mi amiga, me esposa, mi amante - rigo tovar y su costa azul",
+    "related_song_label": "sabor de engaño",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:19:33.475957"
+  },
+  {
+    "song_key": "mi amigo",
+    "related_song_key": "eso y mas [kk] - joan sebastian",
+    "song_label": "MI AMIGO",
+    "related_song_label": "eso y mas [kk] - joan sebastian",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 22:52:25.236960"
+  },
+  {
+    "song_key": "mi gran noche",
+    "related_song_key": "rumores - joan sebastian y lisa lopez",
+    "song_label": "Mi Gran Noche",
+    "related_song_label": "rumores - joan sebastian y lisa lopez",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:45:23.778695"
+  },
+  {
+    "song_key": "mi gusto es",
+    "related_song_key": "golpes en el corazon - los tigres del norte",
+    "song_label": "mi gusto es",
+    "related_song_label": "GOLPES EN EL CORAZON - LOS TIGRES DEL NORTE",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:43:10.088898"
   },
   {
     "song_key": "mi mayor anhelo - banda ms",
@@ -603,6 +1485,33 @@
     "updated_at": "2026-03-02 11:48:57.396875"
   },
   {
+    "song_key": "mi ultimo deseo - banda los recoditos",
+    "related_song_key": "pp2020059 - grupo firme - ya superame",
+    "song_label": "mi ultimo deseo - banda los recoditos",
+    "related_song_label": "PP2020059 - Grupo Firme - Ya Superame",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:52:12.306914"
+  },
+  {
+    "song_key": "mijares - si me tenias",
+    "related_song_key": "cuidado con el corazon",
+    "song_label": "Mijares - Si Me Tenias",
+    "related_song_label": "Cuidado Con El Corazon",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:19:18.436456"
+  },
+  {
+    "song_key": "mio - paulina rubio",
+    "related_song_key": "kany garcia, carin leon - te lo agradezco",
+    "song_label": "mio - paulina rubio",
+    "related_song_label": "Kany García, Carin Leon - Te Lo Agradezco",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:23:54.454046"
+  },
+  {
     "song_key": "mis ojos lloran por ti - big boy",
     "related_song_key": "ella",
     "song_label": "Mis ojos lloran por ti - Big Boy",
@@ -610,6 +1519,15 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 22:21:06.046555"
+  },
+  {
+    "song_key": "mudanzas - lupita dalessio",
+    "related_song_key": "belinda - detras de mi ventana",
+    "song_label": "mudanzas - lupita dalessio",
+    "related_song_label": "Belinda - Detrás de mi Ventana",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:46:13.182222"
   },
   {
     "song_key": "muriendo lento - moderatto y belinda",
@@ -621,6 +1539,69 @@
     "updated_at": "2026-03-14 22:55:37.896839"
   },
   {
+    "song_key": "ni guerra ni paz - lupita d'alessio",
+    "related_song_key": "ese hombre",
+    "song_label": "ni guerra ni paz - lupita d'alessio",
+    "related_song_label": "ese hombre",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:26:12.531820"
+  },
+  {
+    "song_key": "no hay novedad",
+    "related_song_key": "diseñame",
+    "song_label": "No Hay Novedad",
+    "related_song_label": "DiseÑame",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:59:41.158708"
+  },
+  {
+    "song_key": "no me puedes dejar asi",
+    "related_song_key": "maria jose - adelante corazon",
+    "song_label": "No me puedes dejar asi",
+    "related_song_label": "maria jose - adelante corazon",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-12 21:29:47.928786"
+  },
+  {
+    "song_key": "no me voy a morir - belanova",
+    "related_song_key": "rosa pastel - belanova",
+    "song_label": "no me voy a morir - belanova",
+    "related_song_label": "rosa pastel - belanova",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:28:13.430106"
+  },
+  {
+    "song_key": "no se murio el amor",
+    "related_song_key": "el breve espacio",
+    "song_label": "no se murio el amor",
+    "related_song_label": "el breve espacio",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:10:09.987596"
+  },
+  {
+    "song_key": "noches eternas",
+    "related_song_key": "noches eternas - rigo tovar c-mariachi",
+    "song_label": "noches eternas",
+    "related_song_label": "noches eternas - rigo tovar c-mariachi",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:21:09.453629"
+  },
+  {
+    "song_key": "noches eternas - rigo tovar c-mariachi",
+    "related_song_key": "te quedo grande la yegua",
+    "song_label": "noches eternas - rigo tovar c-mariachi",
+    "related_song_label": "te quedo grande la yegua",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:37:55.109099"
+  },
+  {
     "song_key": "noreste caliente - 45 grados",
     "related_song_key": "la ley del monte",
     "song_label": "Noreste Caliente - 45 grados",
@@ -628,6 +1609,24 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 22:12:39.078004"
+  },
+  {
+    "song_key": "nube viajera",
+    "related_song_key": "dr, psiquiatra",
+    "song_label": "Nube Viajera",
+    "related_song_label": "Dr, Psiquiatra",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:15:23.130227"
+  },
+  {
+    "song_key": "oiga - joan sebastian y prisma",
+    "related_song_key": "el sol no regresa",
+    "song_label": "oiga - joan sebastian y prisma",
+    "related_song_label": "el sol no regresa",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:53:35.039575"
   },
   {
     "song_key": "oiga - joan sebastian y prisma",
@@ -639,6 +1638,132 @@
     "updated_at": "2026-03-14 22:31:50.381505"
   },
   {
+    "song_key": "pablo montero - hay otra en tu lugar",
+    "related_song_key": "el palomito -",
+    "song_label": "Pablo Montero - Hay Otra En Tu Lugar",
+    "related_song_label": "el palomito -",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:55:57.669374"
+  },
+  {
+    "song_key": "pelo suelto",
+    "related_song_key": "mi ultimo deseo - banda los recoditos",
+    "song_label": "pelo suelto",
+    "related_song_label": "mi ultimo deseo - banda los recoditos",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:49:35.213001"
+  },
+  {
+    "song_key": "perdon",
+    "related_song_key": "cielo azul, cielo nublado",
+    "song_label": "perdon",
+    "related_song_label": "cielo azul, cielo nublado",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:58:44.292038"
+  },
+  {
+    "song_key": "por que me haces llorar",
+    "related_song_key": "banda maguey - tu eterno enamorado (luis fer karaokes)",
+    "song_label": "Por que me haces Llorar",
+    "related_song_label": "Banda Maguey - Tu Eterno Enamorado (Luis Fer KarAokes)",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:27:27.494030"
+  },
+  {
+    "song_key": "por que me haces llorar",
+    "related_song_key": "el noa noa",
+    "song_label": "Por que me haces Llorar",
+    "related_song_label": "El noa noa",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:43:32.725437"
+  },
+  {
+    "song_key": "pp2020059 - grupo firme - ya superame",
+    "related_song_key": "banda los sebastianes - a traves del vaso",
+    "song_label": "PP2020059 - Grupo Firme - Ya Superame",
+    "related_song_label": "Banda Los Sebastianes - A través del vaso",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:55:32.030096"
+  },
+  {
+    "song_key": "pp2020141 - barraza y lenin - vuelve por favor",
+    "related_song_key": "vamos a darnos tiempo-jose jose",
+    "song_label": "PP2020141 - Barraza Y Lenin - Vuelve Por Favor",
+    "related_song_label": "Vamos A Darnos Tiempo-Jose Jose",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-29 17:37:14.386991"
+  },
+  {
+    "song_key": "pp2021384 - los alegres del barranco - el dueño del palenque",
+    "related_song_key": "caminos de guanajuato",
+    "song_label": "PP2021384 - Los Alegres Del Barranco - El Dueño Del Palenque",
+    "related_song_label": "Caminos De Guanajuato",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:15:03.470186"
+  },
+  {
+    "song_key": "puño de tierra",
+    "related_song_key": "puño de tierra - ramon ayala y sus bravos del norte",
+    "song_label": "puño de tierra",
+    "related_song_label": "puño de tierra - ramon ayala y sus bravos del norte",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:11:21.675433"
+  },
+  {
+    "song_key": "puño de tierra - ramon ayala y sus bravos del norte",
+    "related_song_key": "mio - paulina rubio",
+    "song_label": "puño de tierra - ramon ayala y sus bravos del norte",
+    "related_song_label": "mio - paulina rubio",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:19:17.140663"
+  },
+  {
+    "song_key": "que bello - sonora tropicana",
+    "related_song_key": "lo siento mi amor",
+    "song_label": "que bello - sonora tropicana",
+    "related_song_label": "Lo siento mi amor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:54:13.177989"
+  },
+  {
+    "song_key": "que ganas de no verte nunca mas",
+    "related_song_key": "yo no soy esa mujer - paulina rubio",
+    "song_label": "Qué ganas de no verte nunca más",
+    "related_song_label": "yo no soy esa mujer - paulina rubio",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:07:25.090584"
+  },
+  {
+    "song_key": "quiero que sepas",
+    "related_song_key": "a esa",
+    "song_label": "quiero que sepas",
+    "related_song_label": "a esa",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 23:04:07.883546"
+  },
+  {
+    "song_key": "quiero que sepas",
+    "related_song_key": "belleza de cantina - los cardenales de nuevo leon - copia",
+    "song_label": "quiero que sepas",
+    "related_song_label": "Belleza De Cantina - Los Cardenales De Nuevo Leon - copia",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:55:11.956275"
+  },
+  {
     "song_key": "rosa pastel - belanova",
     "related_song_key": "la lupita - contrabando y traicion",
     "song_label": "rosa pastel - belanova",
@@ -648,6 +1773,42 @@
     "updated_at": "2026-03-14 23:17:36.463935"
   },
   {
+    "song_key": "rosa pastel - belanova",
+    "related_song_key": "me pregunto - belanova",
+    "song_label": "rosa pastel - belanova",
+    "related_song_label": "me pregunto - belanova",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:31:47.000186"
+  },
+  {
+    "song_key": "rumores - joan sebastian y lisa lopez",
+    "related_song_key": "oiga - joan sebastian y prisma",
+    "song_label": "rumores - joan sebastian y lisa lopez",
+    "related_song_label": "oiga - joan sebastian y prisma",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:49:08.519080"
+  },
+  {
+    "song_key": "sabor de engaño",
+    "related_song_key": "sabor de engaño - cadetes de linares",
+    "song_label": "sabor de engaño",
+    "related_song_label": "sabor de engaño - cadetes de linares",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:20:05.795917"
+  },
+  {
+    "song_key": "sabor de engaño - cadetes de linares",
+    "related_song_key": "la tertulia",
+    "song_label": "sabor de engaño - cadetes de linares",
+    "related_song_label": "La tertulia",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 23:23:53.339139"
+  },
+  {
     "song_key": "secreto de amor",
     "related_song_key": "tatuajes",
     "song_label": "Secreto De Amor",
@@ -655,6 +1816,15 @@
     "weight": 1.0,
     "source": "manual_ui",
     "updated_at": "2026-03-02 00:23:09.012134"
+  },
+  {
+    "song_key": "secreto de amor",
+    "related_song_key": "jose alfredo jimenez - el jinete",
+    "song_label": "secreto de amor",
+    "related_song_label": "Jose Alfredo Jimenez - El Jinete",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-12 00:08:33.140856"
   },
   {
     "song_key": "secreto de amor - joan sebastian",
@@ -684,6 +1854,15 @@
     "updated_at": "2026-03-14 23:53:31.282537"
   },
   {
+    "song_key": "sf290-03 - bieber, justin & ludacris - baby",
+    "related_song_key": "la chona",
+    "song_label": "SF290-03 - Bieber, Justin & Ludacris - Baby",
+    "related_song_label": "La Chona",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-12 20:52:35.155461"
+  },
+  {
     "song_key": "shakira - bzrp music sessions #53 ( coros )",
     "related_song_key": "rosa pastel - belanova",
     "song_label": "Shakira - BZRP Music Sessions #53 ( Coros )",
@@ -691,6 +1870,60 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-14 23:07:07.824465"
+  },
+  {
+    "song_key": "si yo fuera el - los cardenales de nuevo leon",
+    "related_song_key": "quiero que sepas",
+    "song_label": "si yo fuera el - los cardenales de nuevo leon",
+    "related_song_label": "quiero que sepas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:51:44.027696"
+  },
+  {
+    "song_key": "sin tu latido (luis aute)",
+    "related_song_key": "soldado del amor",
+    "song_label": "Sin tu latido (Luis Aute)",
+    "related_song_label": "soldado del amor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:05:17.704010"
+  },
+  {
+    "song_key": "sola con mi soledad",
+    "related_song_key": "pp2020141 - barraza y lenin - vuelve por favor",
+    "song_label": "sola con mi soledad",
+    "related_song_label": "PP2020141 - Barraza Y Lenin - Vuelve Por Favor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-29 17:30:11.909436"
+  },
+  {
+    "song_key": "soldado del amor",
+    "related_song_key": "no se murio el amor",
+    "song_label": "soldado del amor",
+    "related_song_label": "no se murio el amor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-08 00:05:29.440770"
+  },
+  {
+    "song_key": "te quedo grande la yegua",
+    "related_song_key": "briseyda solis - cuando abras los ojos (karaoke)",
+    "song_label": "te quedo grande la yegua",
+    "related_song_label": "Briseyda Solis - Cuando Abras Los Ojos (Karaoke)",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 22:43:57.426086"
+  },
+  {
+    "song_key": "tequila karaoke countdown _ ism searching for talent 2019",
+    "related_song_key": "matalas",
+    "song_label": "Tequila Karaoke Countdown _ ISM Searching for Talent 2019",
+    "related_song_label": "matalas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-29 17:44:21.743205"
   },
   {
     "song_key": "the champs - tequila",
@@ -738,6 +1971,42 @@
     "updated_at": "2026-03-02 00:24:24.722019"
   },
   {
+    "song_key": "todos me miran",
+    "related_song_key": "no me voy a morir - belanova",
+    "song_label": "todos me miran",
+    "related_song_label": "no me voy a morir - belanova",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-23 23:24:15.947256"
+  },
+  {
+    "song_key": "tu dama de hierro - marisela",
+    "related_song_key": "belinda - detras de mi ventana",
+    "song_label": "tu dama de hierro - marisela",
+    "related_song_label": "Belinda - Detrás de mi Ventana",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-06-13 22:13:23.410916"
+  },
+  {
+    "song_key": "tzl032-06 - fernandez, pedro - yo el aventurero",
+    "related_song_key": "besos y copas - jenni rivera",
+    "song_label": "TZL032-06 - Fernandez, Pedro - Yo El Aventurero",
+    "related_song_label": "Besos y Copas - Jenni Rivera",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:04:09.617142"
+  },
+  {
+    "song_key": "una pagina mas",
+    "related_song_key": "el ultimo beso",
+    "song_label": "una pagina mas",
+    "related_song_label": "El Ultimo Beso",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:41:45.415144"
+  },
+  {
     "song_key": "vamos a darnos tiempo-jose jose",
     "related_song_key": "cuando abras los ojos - los unicos de mexico",
     "song_label": "Vamos A Darnos Tiempo-Jose Jose",
@@ -745,6 +2014,87 @@
     "weight": 0.2,
     "source": "co_play",
     "updated_at": "2026-03-15 00:00:27.272181"
+  },
+  {
+    "song_key": "vamos a darnos tiempo-jose jose",
+    "related_song_key": "tequila karaoke countdown _ ism searching for talent 2019",
+    "song_label": "Vamos A Darnos Tiempo-Jose Jose",
+    "related_song_label": "Tequila Karaoke Countdown _ ISM Searching for Talent 2019",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-29 17:41:34.479585"
+  },
+  {
+    "song_key": "vete ya - valentin elizalde",
+    "related_song_key": "a mis enemigos",
+    "song_label": "vete ya - valentin elizalde",
+    "related_song_label": "A mis enemigos",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 22:31:20.815628"
+  },
+  {
+    "song_key": "volver a amar",
+    "related_song_key": "secreto de amor",
+    "song_label": "volver a amar",
+    "related_song_label": "secreto de amor",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-12 00:02:58.422427"
+  },
+  {
+    "song_key": "volverte a amar",
+    "related_song_key": "cuando baja la marea(aire)",
+    "song_label": "Volverte A Amar",
+    "related_song_label": "Cuando baja la marea(aire)",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 22:44:21.334364"
+  },
+  {
+    "song_key": "voy a conquistarte - diego verdaguer",
+    "related_song_key": "mi gran noche",
+    "song_label": "Voy a conquistarte - Diego Verdaguer",
+    "related_song_label": "Mi Gran Noche",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-04-11 23:41:37.857283"
+  },
+  {
+    "song_key": "y hubo alguien-marc anthony",
+    "related_song_key": "luis miguel - no discutamos",
+    "song_label": "Y hubo alguien-Marc Anthony",
+    "related_song_label": "Luis Miguel - No discutamos",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:34:36.803021"
+  },
+  {
+    "song_key": "ya te olvide - yuridia",
+    "related_song_key": "yuridia y angela aguilar - que agonia",
+    "song_label": "Ya Te Olvidé - Yuridia",
+    "related_song_label": "Yuridia y Angela Aguilar - Qué Agonía",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:26:39.243149"
+  },
+  {
+    "song_key": "yo no soy esa mujer - paulina rubio",
+    "related_song_key": "daria - la quinta estacion",
+    "song_label": "yo no soy esa mujer - paulina rubio",
+    "related_song_label": "daria - la quinta estacion",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-07 23:09:01.488697"
+  },
+  {
+    "song_key": "yuridia y angela aguilar - que agonia",
+    "related_song_key": "las tres tumbas",
+    "song_label": "Yuridia y Angela Aguilar - Qué Agonía",
+    "related_song_label": "las tres tumbas",
+    "weight": 0.2,
+    "source": "co_play",
+    "updated_at": "2026-05-30 21:30:21.148030"
   },
   {
     "song_key": "yuridia y angela aguilar - que agonia",
